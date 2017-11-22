@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const createBonjour = require('bonjour')
 const Table = require('cli-table2')
 const clear = require('clear')
